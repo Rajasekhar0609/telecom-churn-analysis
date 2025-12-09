@@ -28,10 +28,6 @@ The dataset contains **5000 customer records** with details such as tenure, cont
 - **Power BI** – Interactive dashboard & KPI reporting
 - **Excel / CSV** – Data storage & preprocessing
 
----
-
----
-
 ## 📊 Key KPIs in Dashboard
 - Overall Churn Rate  
 - Average Monthly Charges  
@@ -79,5 +75,3 @@ This project demonstrates an end-to-end **real-world Data Analytics workflow** f
 ---
 
 ⭐ *If you found this project useful, feel free to give it a star and connect with me on LinkedIn!*  
-
-
