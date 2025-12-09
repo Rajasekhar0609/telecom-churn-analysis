@@ -81,5 +81,3 @@ This project demonstrates an end-to-end **real-world Data Analytics workflow** f
 ⭐ *If you found this project useful, feel free to give it a star and connect with me on LinkedIn!*  
 
 
-## 📁 Project Structure
-
